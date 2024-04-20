@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1079639568334",
+    "firebase_url": "https://wisataku-38006-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wisataku-38006",
+    "storage_bucket": "wisataku-38006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079639568334:android:f002c220833c9fbd7e859f",
+        "android_client_info": {
+          "package_name": "com.cepotdev.wisataku.wisataku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMHkWkt5iQfIqteSYCjCK9uP3kuFvOCdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
