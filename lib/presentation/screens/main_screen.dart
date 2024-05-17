@@ -46,14 +46,13 @@ class _MainScreenState extends State<MainScreen> {
                                 vertical: 8.0, horizontal: 16.0),
                             decoration: BoxDecoration(
                               borderRadius: BorderRadius.circular(12.0),
-                              color: Colors.grey[200], // Background color
+                              color: Colors.grey[200],
                               boxShadow: [
                                 BoxShadow(
                                   color: Colors.grey.withOpacity(0.5),
                                   spreadRadius: 2,
                                   blurRadius: 4,
-                                  offset: const Offset(
-                                      0, 2), // changes position of shadow
+                                  offset: const Offset(0, 2),
                                 ),
                               ],
                             ),
